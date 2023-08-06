@@ -1,0 +1,32 @@
+first configure your git account 
+	-->git config --global user.name "your name"
+	-->git config --global user.email "your email id "
+
+first create an account in github.comwith your emailid and saving password
+first u create folder in drives and save your files into that folder
+  go to that folder in cmd directory
+flow is 
+
+go to file directory and enter addresss bar AND TYPE CMD
+
+
+when enter cmd
+type git init
+
+
+after that 
+
+git add
+
+
+or git commit -m "message what u say"
+
+after
+
+git branch -m master 
+
+after
+
+git remote add origin url what is given in github
+ 
+git push -u origin master
